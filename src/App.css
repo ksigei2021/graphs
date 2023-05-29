@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+.button {
+  background-color:#0a0a23;
+  color: #fff;
+  border:none; 
+  border-radius:10px; 
+  padding:15px;
+  min-height:30px; 
+  min-width: 120px;
+}
+
+.myinput{
+  width: 100px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.card {
+ 
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+  width: 450px;
+  margin:10;
+}
